@@ -1,5 +1,5 @@
 package Exercicio9;
-
+//Classe modelo que representa funcionario
 public class Funcionario {
 	private String nome;
 	private double salario;
