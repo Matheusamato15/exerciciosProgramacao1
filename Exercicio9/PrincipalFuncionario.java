@@ -13,7 +13,7 @@ public class PrincipalFuncionario {
 		System.out.print("Quantidade de filhos: "+f.getNumeroFilhos() +"\n");
 		System.out.print("Salário: "+f.getSalario() +" R$ \n");
 		System.out.printf("Desconto no imposto de renda: %.2f R$\n", f.desconto());
-		System.out.printf("INSS: %.2f R$", f.inss());
+		System.out.printf("INSS %.2f R$", f.inss());
 		
 	}
 
